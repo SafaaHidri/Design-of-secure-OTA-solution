@@ -1,0 +1,11 @@
+C:\Users\safah\3D Objects\newwww\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\safah\3D Objects\newwww\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\safah\3D Objects\newwww\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\safah\3D Objects\newwww\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\safah\3D Objects\newwww\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\safah\3D Objects\newwww\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDownload.resources
+C:\Users\safah\3D Objects\newwww\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\safah\3D Objects\newwww\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\safah\3D Objects\newwww\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\safah\3D Objects\newwww\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\safah\3D Objects\newwww\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
